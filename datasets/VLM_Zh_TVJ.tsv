@@ -1,0 +1,27 @@
+	context	sanity_check	sanity_check_key	pic_meaning	utterance	true_how	code
+0	语境：图片中的女生觉得155cm算是高的男孩。她在比较三个男孩的身高。	这三个男孩里面，谁最高？A 小明 B 小凯	小明	img/gao_comp.png	句子：“这三个男孩里，小明高。”	necessarily	pos-t-comp-t-gao
+1	语境：图片中的女生在比较三辆车的价格。她觉得30万算是贵的车。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	红车	img/gui_comp.png	句子：“这三个车里，红车贵。”	possibly	pos-f-comp-t-gui
+2	语境：图片中的女生在比较三个蒙古包的面积大小。她觉得90平方米算是大的蒙古包。	这三个蒙古包里面，哪个最大？A C蒙古包 B A蒙古包	A蒙古包	img/da_pos.png	句子：“B蒙古包大。”	necessarily	pos-f-comp-f-da
+3	语境：图片中的女生在比较三辆车的时速。她觉得时速130算是快的车速。	这三辆车里面，哪辆车最快？A 更远的那辆车 B 我们的这辆车	更远的那辆车	img/kuai_pos.png	句子：“我们的这辆车快。”	necessarily	pos-f-comp-f-kuai
+4	语境：图片中的女生觉得20平方米算是大的蒙古包。她想租蒙古包。	这三个蒙古包里面，哪个最大？A C蒙古包 B A蒙古包	A蒙古包	img/da_pos.png	句子：“B蒙古包大。”	possibly	pos-t-comp-f-da
+5	语境：图片中的女生觉得时速70算是快的车速。她在比较三辆车的车速。	这三辆车里面，哪辆车最快？A 更远的那辆车 B 我们的这辆车	我们的这辆车	img/kuai_comp.png	句子：“这三辆车里，我们的这辆车快。”	necessarily	pos-t-comp-t-kuai
+6	语境：图片中的女生在比较三个男生的身高。她觉得190cm算是高的男生。	这三个男孩里面，谁最高？A 小明 B 小凯	小明	img/gao_comp.png	句子：“这三个男生里，小明高。”	possibly	pos-f-comp-t-gao
+7	语境：图片中的女生在比较三个男生的身高。她觉得195cm算是高的男生。	这三个男孩里面，谁最高？A 小明 B 小凯	小凯	img/gao_pos.png	句子：“小明高。”	necessarily	pos-f-comp-f-gao
+8	语境：图片中的女生觉得20平方米算是大的蒙古包。她在比较三个蒙古包的面积大小。	这三个蒙古包里面，哪个最大？A C蒙古包 B B蒙古包	B蒙古包	img/da_comp.png	句子：“这三个蒙古包里，B蒙古包大。”	necessarily	pos-t-comp-t-da
+9	语境：图片中的女生觉得7万算是贵的车。她想买车。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	灰车	img/gui_pos.png	句子：“红车贵。”	possibly	pos-t-comp-f-gui
+10	语境：图片中的女生在比较三个蒙古包的面积大小。她觉得100平方米算是大的蒙古包。	这三个蒙古包里面，哪个最大？A C蒙古包 B B蒙古包	B蒙古包	img/da_comp.png	句子：“这三个蒙古包里，B蒙古包大。”	possibly	pos-f-comp-t-da
+11	语境：图片中的女生觉得15万算是贵的车。她在比较三辆车的价格。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	红车	img/gui_comp.png	句子：“这三个车里，红车贵。”	necessarily	pos-t-comp-t-gui
+12	语境：图片中的女生在比较三辆车的价格。她觉得18万算是贵的车。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	灰车	img/gui_pos.png	句子：“红车贵。”	necessarily	pos-f-comp-f-gui
+13	语境：图片中的女生觉得170cm算是高的男生。她在和男生聊天。	这三个男孩里面，谁最高？A 小明 B 小凯	小凯	img/gao_pos.png	句子：“小明高。”	possibly	pos-t-comp-f-gao
+14	语境：图片中的女生在比较三辆车的时速。她觉得时速160算是快的车速。	这三辆车里面，哪辆车最快？A 更远的那辆车 B 我们的这辆车	我们的这辆车	img/kuai_comp.png	句子：“这三辆车里，我们的这辆车快。”	possibly	pos-f-comp-t-kuai
+15	语境：图片中的女生觉得时速90km算是快的车。她坐在副驾驶。	这三辆车里面，哪辆车最快？A 更远的那辆车 B 我们的这辆车	更远的那辆车	img/kuai_pos.png	句子：“我们的这辆车快。”	possibly	pos-t-comp-f-kuai
+16	语境：图片中的女生觉得20平方米算是大的蒙古包。她在比较三个蒙古包的面积大小。	这三个蒙古包里面，哪个最大？A C蒙古包 B B蒙古包	B蒙古包	img/da_comp.png	句子：“B蒙古包大。”	necessarily	pos-t-comp-t-da
+17	语境：图片中的女生觉得155cm算是高的男孩。她在比较三个男孩的身高。	这三个男孩里面，谁最高？A 小明 B 小凯	小明	img/gao_comp.png	句子：“小明高。”	necessarily	pos-t-comp-t-gao
+18	语境：图片中的女生在比较三辆车的价格。她觉得50万算是贵的车。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	红车	img/gui_comp.png	句子：“这三辆车里，红车贵。”	possibly	pos-f-comp-t-gui
+19	语境：图片中的女生觉得2万算是贵的车。她在比较三辆车的价格。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	红车	img/gui_comp.png	句子：“红车贵。”	necessarily	pos-t-comp-t-gui
+20	语境：图片中的女生在比较三辆车的时速。她觉得时速200算是快的车速。	这三辆车里面，哪辆车最快？A 更远的那辆车 B 我们的这辆车	更远的那辆车	img/kuai_pos.png	句子：“我们的这辆车快。”	necessarily	pos-f-comp-f-kuai
+21	语境：图片中的女生在比较三辆车的价格。她觉得40万算是贵的车。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	灰车	img/gui_pos.png	句子：“红车贵。”	necessarily	pos-f-comp-f-gui
+22	语境：图片中的女生觉得时速70算是快的车速。她在比较三辆车的车速。	这三辆车里面，哪辆车最快？A 更远的那辆车 B 我们的这辆车	我们的这辆车	img/kuai_comp.png	句子：“我们的这辆车快。”	necessarily	pos-t-comp-t-kuai
+23	语境：图片中的女生觉得时速80km算是快的车。她坐在副驾驶。	这三辆车里面，哪辆车最快？A 更远的那辆车 B 我们的这辆车	更远的那辆车	img/kuai_pos.png	句子：“我们的这辆车快。”	possibly	pos-t-comp-f-kuai
+24	语境：图片中的女生觉得15万算是贵的车。她在比较三辆车的价格。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	红车	img/gui_comp.png	句子：“红车贵。”	necessarily	pos-t-comp-t-gui
+25	语境：图片中的女生在比较三辆车的价格。她觉得40万算是贵的车。	这三辆车里面，哪辆车最贵？A 灰车 B 红车	红车	img/gui_comp.png	句子：“这三个车里，红车贵。”	possibly	pos-f-comp-t-gui
